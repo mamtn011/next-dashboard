@@ -1,10 +1,21 @@
-## Next.js App Router Course - Starter
+# Next.js Application Documentation
 
-This is the starter template for the Next.js App Router Course. It contains the starting code for the dashboard application.
+## Overview
 
-For more information, see the [course curriculum](https://nextjs.org/learn) on the Next.js Website.
+This document provides an overview of a Next.js application built using Next.js 14. The application allows users to log in, access a dashboard, and manage invoices (create, update, and view invoices).
 
-**Login access:**
+**Live Preview:** https://next-dashboard-mobin.vercel.app/
+
+## Features
+
+- **User Authentication**: Users can log in to the application.
+- **Dashboard**: Users can access a dashboard that provides an overview of key metrics and features.
+- **Invoice Management**:
+  - View a list of invoices.
+  - Create new invoices.
+  - Update existing invoices.
+
+## Login Credential
 
 - Email: user@nextmail.com
 - Password: 123456
